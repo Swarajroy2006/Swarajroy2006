@@ -10,8 +10,8 @@ BCA'28 @ Techno India Salt Lake
 🌐 **Socials:**
 
 [![Website](https://img.shields.io/badge/Website-swaraj.ai.in-blue?style=for-the-badge&logo=googlechrome)](https://swaraj.ai.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/swaraj.php/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/swarajroy2006/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/swaraj.php/)
 [![Email](https://img.shields.io/badge/Email-mail@swaraj.ai.in-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@swaraj.ai.in)
 
 
